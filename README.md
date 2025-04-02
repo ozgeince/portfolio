@@ -10,42 +10,18 @@ Hem ekip çalışmalarında hem de bireysel projelerde başarılı sonuçlar eld
 
 İşime olan tutkumun yanı sıra, [hobi 1] ve [hobi 2] gibi ilgi alanlarım da var. Bu hobiler, yaratıcılığımı beslememe ve yeni bakış açıları kazanmama yardımcı oluyor.
 
-Benimle iletişime geçmekten çekinmeyin!
 ## Hakkımda
 
-* **Yazılım:** Web geliştirme, mobil uygulama geliştirme ve veritabanı yönetimi konularında deneyimliyim.
-* **Tasarım:** Kullanıcı arayüzü (UI) ve kullanıcı deneyimi (UX) tasarımı alanlarında uzmanım.
 * **Projeler:** İşte bazı projelerim:
-    * Proje 1: [Proje 1 Açıklaması](proje1-linki)
-    * Proje 2: [Proje 2 Açıklaması](proje2-linki)
-    * Proje 3: [Proje 3 Açıklaması](proje3-linki)
-* **Beceriler:** HTML, CSS, JavaScript, React, Python, Adobe XD, Figma, Adobe ıllustrator.
-* **İletişim:** [ozgeince@mail.com](mailto:ozgeince@mail.com) | [LinkedIn Profilim](linkedin-profil-linki) | [GitHub Profilim](github-profil-linki)
-
-## Öne Çıkan Projeler
-
-### Proje 1
-
-![Proje 1 Resmi](proje1-resim-linki)
-
-Proje 1 hakkında kısa açıklama.
-
-### Proje 2
-
-![Proje 2 Resmi](proje2-resim-linki)
-
-Proje 2 hakkında kısa açıklama.
-
-### Proje 3
-
-![Proje 3 Resmi](proje3-resim-linki)
-
-Proje 3 hakkında kısa açıklama.
-
-## İletişim
+    * Proje 1: [Proje 1 Açıklaması]([proje1-linki](https://www.behance.net/gallery/194796345/Scops-Design-Challange-Longboard-Tasarm))
+    * Proje 2: [Proje 2 Açıklaması]([[proje2-linki](https://www.behance.net/gallery/194855121/NFT-Project-Munchies)])
+    * Proje 3: [Proje 3 Açıklaması]([proje3-linki](https://www.behance.net/gallery/194805765/Casino-Illustration))
+* **Beceriler:** Adobe Illustrator, Adobe Photoshop, Adobe InDesign, Procreate, Canva.
+* **İletişim:** [inceozge@hotmail.com.tr](mailto:inceozge@hotmail.com.tr) | [LinkedIn Profilim]((https://www.linkedin.com/in/ozge-ince)) | [GitHub Profilim](https://github.com/ozgeince)) | [Behance Profilim](https://www.behance.net/ozge-ince)
 
 Benimle iletişime geçmekten çekinmeyin!
 
-* E-posta: [ozgeince@hotmail.com.tr](mailto:ozgeince@hotmail.com.tr)
+* E-posta: [ozgeince@hotmail.com.tr](mailto:inceozge@hotmail.com.tr)
 * LinkedIn: [LinkedIn Profilim](https://www.linkedin.com/in/ozge-ince)
 * GitHub: [GitHub Profilim](https://github.com/ozgeince)
+* Behance: [Behance Profilim](https://www.behance.net/ozge-ince)
