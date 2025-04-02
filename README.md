@@ -1,14 +1,16 @@
 # Merhaba, Ben Özge İnce
 
-Merhaba, ben Özge İnce. Yazılım ve tasarım dünyasına olan tutkum, lise yıllarında basit web siteleri tasarlayarak başladı. O zamandan beri, kendimi sürekli geliştirerek hem teknik hem de yaratıcı becerilerimi en üst seviyeye çıkarmaya odaklandım.
+Grafik tasarım eğitimim boyunca görsel iletişim ve yaratıcı problem çözme becerilerimi geliştirdim. Özellikle illüstrasyon alanında kendimi ifade etmeyi ve özgün çalışmalar üretmeyi seviyorum. Freelance projelerde farklı sektörlerden müşterilerle çalışma fırsatı buldum ve bu süreçte iletişim, zaman yönetimi ve müşteri memnuniyeti konularında önemli deneyimler edindim.
 
-Kariyerim boyunca, [şirket adı] gibi önde gelen şirketlerde çalıştım ve [proje adı] gibi başarılı projelere imza attım. Bu projelerde, [başarı 1] ve [başarı 2] gibi önemli sonuçlar elde ettim.
+Kurumsal bir deneyimim olmamasına rağmen, öğrenmeye ve kendimi sürekli geliştirmeye olan tutkumla bu açığı kapatmaya çalıştım. Procreate, Adobe Illustrator, Adobe Photoshop ve Adobe Indesign gibi tasarım araçlarına hakimim ve bunları projelerimde etkin bir şekilde kullanıyorum.
 
-HTML, CSS, JavaScript, React, Python gibi dillerde uzmanım ve Adobe XD, Figma, Adobe Illustrator gibi tasarım araçlarını etkin bir şekilde kullanabiliyorum. Ayrıca, [sertifika adı] sertifikasına sahibim ve [ödül adı] ödülünü kazandım.
+Kişisel olarak, pozitif enerjiye sahip, uyumlu ve sorumluluk bilinci yüksek biriyim. İletişim becerilerim güçlüdür. Problem çözme yeteneğim gelişmiştir ve karşılaştığım zorluklara yapıcı çözümler üretmeye odaklanırım. İş ahlakıma önem veririm ve her zaman profesyonel bir yaklaşım sergilerim.
+
+Hem ekip çalışmalarında hem de bireysel projelerde başarılı sonuçlar elde ettim. Ekip içinde işbirliğine yatkınım, fikir alışverişinde bulunmaktan ve ortak hedeflere ulaşmak için çalışmaktan keyif alırım. Bireysel projelerde ise zaman yönetimi, organizasyon ve detaylara dikkat etme konularında titiz davranırım. Her iki çalışma şeklinde de sorumluluklarımı zamanında ve eksiksiz olarak yerine getirmeye özen gösteririm.
 
 İşime olan tutkumun yanı sıra, [hobi 1] ve [hobi 2] gibi ilgi alanlarım da var. Bu hobiler, yaratıcılığımı beslememe ve yeni bakış açıları kazanmama yardımcı oluyor.
 
-İletişim becerilerim, problem çözme yeteneğim ve detaylara verdiğim önem sayesinde, her projede en iyi sonuçları elde etmeye çalışıyorum. Benimle iletişime geçmekten çekinmeyin!
+Benimle iletişime geçmekten çekinmeyin!
 ## Hakkımda
 
 * **Yazılım:** Web geliştirme, mobil uygulama geliştirme ve veritabanı yönetimi konularında deneyimliyim.
