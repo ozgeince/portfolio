@@ -1,7 +1,14 @@
-# Merhaba, Ben Özge İnce 
+# Merhaba, Ben Özge İnce
 
-Yazılım ve tasarım dünyasına tutkuyla bağlı bir profesyonelim. Yaratıcı çözümler üretmeyi ve kullanıcı deneyimini en üst seviyeye çıkarmayı hedefliyorum.
+Merhaba, ben Özge İnce. Yazılım ve tasarım dünyasına olan tutkum, lise yıllarında basit web siteleri tasarlayarak başladı. O zamandan beri, kendimi sürekli geliştirerek hem teknik hem de yaratıcı becerilerimi en üst seviyeye çıkarmaya odaklandım.
 
+Kariyerim boyunca, [şirket adı] gibi önde gelen şirketlerde çalıştım ve [proje adı] gibi başarılı projelere imza attım. Bu projelerde, [başarı 1] ve [başarı 2] gibi önemli sonuçlar elde ettim.
+
+HTML, CSS, JavaScript, React, Python gibi dillerde uzmanım ve Adobe XD, Figma, Adobe Illustrator gibi tasarım araçlarını etkin bir şekilde kullanabiliyorum. Ayrıca, [sertifika adı] sertifikasına sahibim ve [ödül adı] ödülünü kazandım.
+
+İşime olan tutkumun yanı sıra, [hobi 1] ve [hobi 2] gibi ilgi alanlarım da var. Bu hobiler, yaratıcılığımı beslememe ve yeni bakış açıları kazanmama yardımcı oluyor.
+
+İletişim becerilerim, problem çözme yeteneğim ve detaylara verdiğim önem sayesinde, her projede en iyi sonuçları elde etmeye çalışıyorum. Benimle iletişime geçmekten çekinmeyin!
 ## Hakkımda
 
 * **Yazılım:** Web geliştirme, mobil uygulama geliştirme ve veritabanı yönetimi konularında deneyimliyim.
@@ -10,7 +17,7 @@ Yazılım ve tasarım dünyasına tutkuyla bağlı bir profesyonelim. Yaratıcı
     * Proje 1: [Proje 1 Açıklaması](proje1-linki)
     * Proje 2: [Proje 2 Açıklaması](proje2-linki)
     * Proje 3: [Proje 3 Açıklaması](proje3-linki)
-* **Beceriler:** HTML, CSS, JavaScript, React, Python, Adobe XD, Figma
+* **Beceriler:** HTML, CSS, JavaScript, React, Python, Adobe XD, Figma, Adobe ıllustrator.
 * **İletişim:** [ozgeince@mail.com](mailto:ozgeince@mail.com) | [LinkedIn Profilim](linkedin-profil-linki) | [GitHub Profilim](github-profil-linki)
 
 ## Öne Çıkan Projeler
@@ -39,4 +46,4 @@ Benimle iletişime geçmekten çekinmeyin!
 
 * E-posta: [ozgeince@mail.com](mailto:ozgeince@mail.com)
 * LinkedIn: [LinkedIn Profilim](linkedin-profil-linki)
-* GitHub: [GitHub Profilim](github-profil-linki)
+* GitHub: [GitHub Profilim](github.com/ozgeince)
