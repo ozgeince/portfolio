@@ -44,6 +44,6 @@ Proje 3 hakkında kısa açıklama.
 
 Benimle iletişime geçmekten çekinmeyin!
 
-* E-posta: [ozgeince@mail.com](mailto:ozgeince@hotmail.com.tr)
-* LinkedIn: [LinkedIn Profilim](www.linkedin.com/in/ozge-ince)
+* E-posta: [ozgeince@hotmail.com.tr](mailto:ozgeince@hotmail.com.tr)
+* LinkedIn: [LinkedIn Profilim](https://www.linkedin.com/in/ozge-ince)
 * GitHub: [GitHub Profilim](https://github.com/ozgeince)
