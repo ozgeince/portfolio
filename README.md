@@ -1,1 +1,1 @@
-# portfolio of ozge
+# sayfama hoşgeldiniz
