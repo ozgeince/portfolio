@@ -21,7 +21,7 @@ Hem ekip çalışmalarında hem de bireysel projelerde başarılı sonuçlar eld
 
 Benimle iletişime geçmekten çekinmeyin!
 
-* E-posta: [ozgeince@hotmail.com.tr](mailto:inceozge@hotmail.com.tr)
+* E-posta: [inceozge@hotmail.com.tr](mailto:inceozge@hotmail.com.tr)
 * LinkedIn: [LinkedIn Profilim](https://www.linkedin.com/in/ozge-ince)
 * GitHub: [GitHub Profilim](https://github.com/ozgeince)
 * Behance: [Behance Profilim](https://www.behance.net/ozge-ince)
