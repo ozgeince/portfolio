@@ -1,6 +1,6 @@
 # Merhaba, Ben Özge İnce
 
-Grafik tasarım eğitimim boyunca görsel iletişim ve yaratıcı problem çözme becerilerimi geliştirdim. Özellikle illüstrasyon alanında kendimi ifade etmeyi ve özgün çalışmalar üretmeyi seviyorum. Freelance projelerde farklı sektörlerden müşterilerle çalışma fırsatı buldum ve bu süreçte iletişim, zaman yönetimi ve müşteri memnuniyeti konularında önemli deneyimler edindim.
+Anadolu Üniversitesi - Güzel Sanatlar Fakültesi, Grafik bölümü mezunuyum. Grafik tasarım eğitimim boyunca görsel iletişim ve yaratıcı problem çözme becerilerimi geliştirdim. Özellikle illüstrasyon alanında kendimi ifade etmeyi ve özgün çalışmalar üretmeyi seviyorum. Freelance projelerde farklı sektörlerden müşterilerle çalışma fırsatı buldum ve bu süreçte iletişim, zaman yönetimi ve müşteri memnuniyeti konularında önemli deneyimler edindim.
 
 Kurumsal bir deneyimim olmamasına rağmen, öğrenmeye ve kendimi sürekli geliştirmeye olan tutkumla bu açığı kapatmaya çalıştım. Procreate, Adobe Illustrator, Adobe Photoshop ve Adobe Indesign gibi tasarım araçlarına hakimim ve bunları projelerimde etkin bir şekilde kullanıyorum.
 
@@ -17,7 +17,7 @@ Hem ekip çalışmalarında hem de bireysel projelerde başarılı sonuçlar eld
     * Proje 2: [Proje 2 Açıklaması]([[proje2-linki](https://www.behance.net/gallery/194855121/NFT-Project-Munchies)])
     * Proje 3: [Proje 3 Açıklaması]([proje3-linki](https://www.behance.net/gallery/194805765/Casino-Illustration))
 * **Beceriler:** Adobe Illustrator, Adobe Photoshop, Adobe InDesign, Procreate, Canva.
-* **İletişim:** [inceozge@hotmail.com.tr](mailto:inceozge@hotmail.com.tr) | [LinkedIn Profilim]((https://www.linkedin.com/in/ozge-ince)) | [GitHub Profilim](https://github.com/ozgeince)) | [Behance Profilim](https://www.behance.net/ozge-ince)
+* **İletişim:** [inceozge@hotmail.com.tr](mailto:inceozge@hotmail.com.tr) | [LinkedIn Profilim]((https://www.linkedin.com/in/ozge-ince)) | [GitHub Profilim](https://github.com/ozgeince) | [Behance Profilim](https://www.behance.net/ozge-ince)
 
 Benimle iletişime geçmekten çekinmeyin!
 
