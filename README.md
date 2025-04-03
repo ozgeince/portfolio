@@ -51,7 +51,7 @@ Bana her zaman ulaşabilirsiniz!
 
  **☎️ İLETİŞİM**
   
-* E-posta: [inceozge@hotmail.com.tr](mailto:inceozge@hotmail.com.tr)
-* LinkedIn: [LinkedIn Profilim](https://www.linkedin.com/in/ozge-ince)
-* GitHub: [GitHub Profilim](https://github.com/ozgeince)
-* Behance: [Behance Profilim](https://www.behance.net/ozge-ince)
+* ✉️ [inceozge@hotmail.com.tr](mailto:inceozge@hotmail.com.tr)
+* 🎨 [LinkedIn Profilim](https://www.linkedin.com/in/ozge-ince)
+* 💼 [GitHub Profilim](https://github.com/ozgeince)
+* 🖌️ [Behance Profilim](https://www.behance.net/ozge-ince)
