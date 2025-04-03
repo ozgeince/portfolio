@@ -15,6 +15,7 @@ Aşağıda, tamamlamış olduğum projelerin detaylarına, kişisel bilgilerime 
 * Anadolu Üniversitesi - Güzel Sanatlar Fakültesi, Grafik Bölümü
 
 * Mezuniyet Yılı: [2016-2020]
+  
 
 🔧 BECERİLER
 
@@ -35,6 +36,7 @@ Aşağıda, tamamlamış olduğum projelerin detaylarına, kişisel bilgilerime 
 * Markalaşma ve Logo Tasarımı
 
 * Tipografi ve Renk Teorisi
+  
 
 
 👥 KİŞİSEL ÖZELLİKLER
@@ -48,6 +50,7 @@ Aşağıda, tamamlamış olduğum projelerin detaylarına, kişisel bilgilerime 
 * Ekip çalışmasına uyum
 
 * Sorumluluk sahibi
+  
 
 ## 🌟 Hakkımda
 
