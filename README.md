@@ -41,7 +41,7 @@ Aşağıda, tamamlamış olduğum projelerin detaylarına, kişisel bilgilerime 
 
 ## 🌟 Hakkımda
 
-* **PROJELER** 
+ ** 📁PROJELER** 
     * [Scops Design Challenge-Longboard Design](https://www.behance.net/gallery/194796345/Scops-Design-Challange-Longboard-Tasarm) Scops'un düzenlediği longboard tasarım yarışmasına katıldım ve bu özgün tasarımım, sergilenmeye değer bulundu. Birincilik ödülünü kazanamasam da, bu deneyim benim için son derece keyifli ve öğreticiydi.
     * [NFT Project-Munchies](https://www.behance.net/gallery/194855121/NFT-Project-Munchies) Ekip arkadaşlarımla birlikte hayata geçirdiğimiz bu NFT projesi, bir yıllık yoğun bir emeğin ve tutkunun ürünü. Hikayenin her aşamasını ve görsellerini bizzat tasarlayarak, bu dijital esere özgün bir kimlik kazandırdım. Bu süreçte, ekip olmanın gücünü ve disiplinli çalışmanın önemini derinden hissettim.
     * [Casino-Illustration](https://www.behance.net/gallery/194805765/Casino-Illustration) Bu illüstrasyon, çizim yeteneğimi geliştirmek amacıyla ürettiğim kişisel bir çalışmadır. Benzer eserlerimi Behance hesabımda bulabilirsiniz. Bu tarz çizimler her ne kadar kendi tarzımı yansıtsa da, sanatsal vizyonumu genişletmek ve yeni teknikleri deneyimlemek için her zaman heyecan duyuyorum.
