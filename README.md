@@ -13,7 +13,7 @@ Aşağıda, tamamlamış olduğum projelerin detaylarına, kişisel bilgilerime 
 🎓 EĞİTİM
 
 * Anadolu Üniversitesi - Güzel Sanatlar Fakültesi, Grafik Bölümü
-* Mezuniyet Yılı: [2016-2020]
+* Mezuniyet Yılı: (2016-2020)
   
 
 🔧 BECERİLER
