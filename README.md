@@ -14,8 +14,8 @@ Hem ekip çalışmalarında hem de bireysel projelerde başarılı sonuçlar eld
 
 * **Projeler:** İşte bazı projelerim:
     * Proje 1: [Behance Scops Design Challenge Board](https://www.behance.net/gallery/194796345/Scops-Design-Challange-Longboard-Tasarm)
-    * Proje 2: [Proje 2 Açıklaması](https://www.behance.net/gallery/194855121/NFT-Project-Munchies)
-    * Proje 3: [Proje 3 Açıklaması](https://www.behance.net/gallery/194805765/Casino-Illustration)
+    * Proje 2: [NFT-Project-Munchies](https://www.behance.net/gallery/194855121/NFT-Project-Munchies)
+    * Proje 3: [Casino-Illustration](https://www.behance.net/gallery/194805765/Casino-Illustration)
 * **Beceriler:** Adobe Illustrator, Adobe Photoshop, Adobe InDesign, Procreate, Canva.
 * **İletişim:** [inceozge@hotmail.com.tr](mailto:inceozge@hotmail.com.tr) | [LinkedIn Profilim]((https://www.linkedin.com/in/ozge-ince)) | [GitHub Profilim](https://github.com/ozgeince) | [Behance Profilim](https://www.behance.net/ozge-ince)
 
