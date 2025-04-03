@@ -13,28 +13,19 @@ Aşağıda, tamamlamış olduğum projelerin detaylarına, kişisel bilgilerime 
 🎓 EĞİTİM
 
 * Anadolu Üniversitesi - Güzel Sanatlar Fakültesi, Grafik Bölümü
-
 * Mezuniyet Yılı: [2016-2020]
   
 
 🔧 BECERİLER
 
 * Adobe Photoshop
-  
 * Illustrator
-  
 * Adobe InDesign
-  
 * Procreate
-
 * Canva
-
 * Sosyal Medya Tasarımı
-
 * Basit Hareketli Grafikler
-  
 * Markalaşma ve Logo Tasarımı
-
 * Tipografi ve Renk Teorisi
   
 
@@ -42,13 +33,9 @@ Aşağıda, tamamlamış olduğum projelerin detaylarına, kişisel bilgilerime 
 👥 KİŞİSEL ÖZELLİKLER
 
 * Detay odaklı ve yaratıcı düşünme becerisi
-
 * Proje yönetimi ve zamanlama becerisi
-  
 * Problem çözme ve çok yönlülük
-  
 * Ekip çalışmasına uyum
-
 * Sorumluluk sahibi
   
 
@@ -62,7 +49,7 @@ Aşağıda, tamamlamış olduğum projelerin detaylarına, kişisel bilgilerime 
 Bu portfolyo, deneyimlerimi ve yeteneklerimi sergileyerek iş birliği fırsatlarını arttırmayı amaçlamaktadır. 
 Bana her zaman ulaşabilirsiniz!
 
-* **☎️ İLETİŞİM**
+ **☎️ İLETİŞİM**
   
 * E-posta: [inceozge@hotmail.com.tr](mailto:inceozge@hotmail.com.tr)
 * LinkedIn: [LinkedIn Profilim](https://www.linkedin.com/in/ozge-ince)
