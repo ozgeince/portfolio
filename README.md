@@ -17,15 +17,24 @@ Mezuniyet Yılı: [2016-2020]
 
 🔧 Beceriler
 
-Adobe Photoshop 
-Adobe Illustrator
-Adobe InDesign
-Procreate
-Canva
-Sosyal Medya Tasarımı
-Basit Hareketli Grafikler
-Markalaşma ve Logo Tasarımı
-Tipografi ve Renk Teorisi
+* Adobe Photoshop
+  
+* Illustrator
+  
+* Adobe InDesign
+  
+* Procreate
+
+* Canva
+
+* Sosyal Medya Tasarımı
+
+* Basit Hareketli Grafikler
+  
+* Markalaşma ve Logo Tasarımı
+
+* Tipografi ve Renk Teorisi
+
 
 👥 Kişisel Özellikler
 
